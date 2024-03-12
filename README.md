@@ -1,2 +1,2 @@
-# OSSPrac
-for ossprac hw
+# OPEN S/W Project Assignment
+for OPEN S/W Project Assignment
